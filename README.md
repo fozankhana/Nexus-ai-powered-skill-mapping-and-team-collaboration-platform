@@ -560,6 +560,6 @@ This is the exact sequence used to build Nexus from scratch. Use it as a referen
 
 ---
 
-## License
+## Licensed
 
-MIT — free to use, modify, and distribute.
+
